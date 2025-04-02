@@ -1,3 +1,4 @@
+//기본 :계산기
 const add = (a,b) => {
     return a+b;
 }
