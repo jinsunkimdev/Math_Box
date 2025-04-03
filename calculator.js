@@ -15,4 +15,6 @@ const divide_new = (a,b) => {
 const getRemainer = (a,b) => {
     return a%b;
 }
-
+const getMedian = (a,b) => {
+    return (a*b)/2;
+};
