@@ -9,3 +9,6 @@ const subtract = (a,b) => {
 const multiply = (a,b) => {
     return a*b;
 };
+const getMedian = (a,b) => {
+    return (a*b)/2;
+};
