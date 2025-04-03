@@ -12,3 +12,7 @@ const multiply = (a,b) => {
 const divide_new = (a,b) => {
     return a/b;
 }
+const getRemainer = (a,b) => {
+    return a%b;
+}
+
