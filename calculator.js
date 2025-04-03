@@ -12,3 +12,6 @@ const multiply = (a,b) => {
 const divide_new = (a,b) => {
     return a/b;
 }
+const sayHello = (a,b) => {
+    return console.log("Hello");
+}
