@@ -12,6 +12,3 @@ const multiply = (a,b) => {
 const divide_new = (a,b) => {
     return a/b;
 }
-const square = (a) => {
-    return a*a
-}
